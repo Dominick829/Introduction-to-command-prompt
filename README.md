@@ -65,6 +65,11 @@ Now, here is a list of some of the most common commands or the ones that we will
 
 <img width="1038" height="639" alt="image" src="https://github.com/user-attachments/assets/12bbe66a-1333-4e8c-b663-f0f91b05e57b" />
 
+Now, all of these commands are useful in their own way, and by following along, I think you may have gained more understanding of your device and what your device does daily. Now, let's go over how you can apply these commands in troubleshooting. 
+
+Now, for example, say a device is not able to surf the internet at all. One of the first things you can check for is running the command ipconfig/all in the command prompt and ensuring all of the network information on the device is correct, meaning the IP address is correct, the DNS server is correct, the default gateway is correct, and the subnet mask is correct. 
+
+Understanding these commands and what they do will allow you to think whenever you're facing an issue, and think about what tools (commands) you know are at your disposal, and can be run to better understand the issue that your network or device is facing. 
 ___________________________________________________________________________________________________________________________________________________________________
 
 Task Manager- 
