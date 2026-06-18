@@ -64,3 +64,47 @@ Now, here is a list of some of the most common commands or the ones that we will
 -tracert This command will map the path your packets took to reach their destination over a maximum of 30 hops
 
 <img width="1038" height="639" alt="image" src="https://github.com/user-attachments/assets/12bbe66a-1333-4e8c-b663-f0f91b05e57b" />
+
+___________________________________________________________________________________________________________________________________________________________________
+
+Task Manager- 
+
+ The definition is: A built-in system monitoring and diagnostic tool. It allows you to view all running applications and background processes, and track how much CPU, memory, disk, and network resources your computer is using.
+
+ In relation to help desk and troubleshooting, I define it as a software tool that allows you to view the performance and processes running on your device and manage them. It can allow you to close programs that are frozen or experiencing technical difficulties and restart them. 
+
+ <img width="1080" height="571" alt="image" src="https://github.com/user-attachments/assets/96980ab3-6323-46b4-8fe8-d7214b85a762" />
+
+This is what the performance tab shows you. As you can see, it shows the performance of the device and the utilization of each of the components. It shows the number of processes that the components are running and their speed. 
+
+<img width="1080" height="580" alt="image" src="https://github.com/user-attachments/assets/040a7f79-de72-425a-a60a-177edae6e3e2" />
+
+This tab shows the processes being run by the device and how much utilization each process is using on the device. In this tab, this is where you can close processes that are frozen, or you can find out what processes are using all of your computer's resources. This can be a very valuable tool for troubleshooting a slow computer. 
+
+I would say that the processes and performance tabs are the most important and useful for troubleshooting; however, the startup tab can be useful as well, as it does what its name implies and shows all programs that are set to start running on startup or whenever you turn on your computer or device. 
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Device Manager- 
+
+The definition is: a component of the Microsoft Windows operating system. It allows users to view and control the hardware attached to the computer.
+
+In relation to the help desk, Device Manager is another tool that allows you to view hardware on or connected to your device. Manage that hardware and the software that comes with that hardware, for example, managing the drivers on your microphone. You can update or check for updates on drivers on your device, and can remove devices or roll back drivers if you please.
+
+<img width="774" height="563" alt="image" src="https://github.com/user-attachments/assets/f50df99e-1362-4803-bd1c-3e632529f6c5" />
+
+<img width="772" height="563" alt="image" src="https://github.com/user-attachments/assets/024acda2-3877-44ee-81cc-c74f9ac90e4b" />
+
+Right-click and select Properties, and you can then you can go ahead and make your changes. 
+
+<img width="771" height="564" alt="image" src="https://github.com/user-attachments/assets/d89885d1-17b5-4414-b220-1cf19fc92641" />
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Control Panel-
+
+The definition is: a centralized interface that allows users to view, manage, and customize system settings on a device or platform 
+
+In help desk control panel can be useful for helping users customise their computers. For example, if a user wants to turn on accommodation for low vision or something along those lines, you can use the control panel to do that. You can use it to edit and view network adapters and edit your device's IP address in the network and sharing center. You can make changes to the device's firewall or security parameters, or edit the device's battery settings in the system and security tab. 
+
+<img width="1119" height="621" alt="image" src="https://github.com/user-attachments/assets/a0a9e98a-e1f2-4846-92dd-c34af4026ad4" />
