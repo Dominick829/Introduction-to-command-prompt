@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 Requirements to follow along- 
 
-All of these programs are available on Windows.
+All of these programs are available on Windows 10 or 11 OS
 
 __________________________________________________________________________________________________________________________________________________
 COMMAND PROMPT
